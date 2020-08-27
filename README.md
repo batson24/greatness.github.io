@@ -1,2 +1,2 @@
 # greatness.github.io
-https://batson24.github.io/greatness.github.io/
+https://capstone-51aea.firebaseapp.com/
